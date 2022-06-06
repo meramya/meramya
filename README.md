@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @meramya
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning clean coding techniques
-- 💞️ I’m looking to collaborate on intresting projects
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ramyalb6630@gmail.com
 
 <!---
